@@ -2,7 +2,7 @@
 
 ### **1. 역사: 컨테이너란?**
 
-[1. 표준규격 CI, 런타임 표준 CRI 이해 ](https://blog.naver.com/pjt3591oo/222992244712)
+[1.1. 표준규격 CI, 런타임 표준 CRI 이해 ](https://blog.naver.com/pjt3591oo/222992244712)
 
 ---
 
