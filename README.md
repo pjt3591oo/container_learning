@@ -51,3 +51,11 @@
 [6.1. 컨테이너 사이드카 패턴](https://blog.naver.com/pjt3591oo/222937867399)
 
 [6.2. k8s, argocd, github action로 mlops 구축](https://blog.naver.com/pjt3591oo/222760459902)
+
+---
+
+### 7. NCP에서 k8s 사용
+
+[7.1. [k8s] NCP에서 source build, source deploy, source pipeline을 활용하여 CI/CD 구축](https://blog.naver.com/pjt3591oo/223194521702)
+
+[7.2. [k8s] NCP에서 k8s 사용하기 - 사설 registry 이용](https://blog.naver.com/pjt3591oo/223163689803)
