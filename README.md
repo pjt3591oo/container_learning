@@ -32,9 +32,11 @@
 
 ---
 
-### **4. 컨테이너 구현체 - 파드맨 사용**
+### **4. 컨테이너 구현체**
 
 [4.1. 도커 대체제 파드맨](https://blog.naver.com/pjt3591oo/222997069333)
+
+[4.2. Docker Desktop 대체제 OrbStack](https://blog.naver.com/pjt3591oo/223625913182)
 
 ---
 
@@ -43,6 +45,8 @@
 [5.1. 클러스터 환경 구축](https://blog.naver.com/pjt3591oo/223095377717)
 
 [5.2. k8s -  파드, 리플리카셋, 디플로이먼트, 서비스, 인그레스 이해하기](https://blog.naver.com/pjt3591oo/222677138664)
+
+[5.3. minikube 멀티노드 지원](https://blog.naver.com/pjt3591oo/223625955411)
 
 ---
 
